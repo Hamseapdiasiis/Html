@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Courier, monospace;
+}
+
+.container{
+    margin: 5px 5px;
+    background-color: #d9d9d9;
+}
+.menu{
+    display: none;
+}
+.log-out{
+    display: flex;
+    justify-content: end;
+}
+.school-img{
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    margin: 20px 20px;
+}
+.logo h2{
+    font-size: x-large;
+    font-weight: 500px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+.logo h2 span{
+    color: #eaa706;
+}
+.navbar ul li{
+    list-style: none;
+    display: flex;
+    font-size: larger;
+}
+.service{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mission_component h3{
+    margin: 10px 0px;
+}
+.mission_component ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    list-style: none;
+}
+.border-b{
+    border-bottom: 2.5px solid #eaa706;
+    width: 100px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,43 @@
+button {
+    color: black;
+    background-color: rgb(255, 60, 0);
+}
+ol {
+    color: rgb(255, 0, 191); font: times; font-size: medium;
+}
+ul {
+    color: brown;
+}
+
+h1{
+    color: greenyellow;
+}
+h4{
+    color: violet;
+}
+#digaale{
+    color:rgb(50, 205, 205);
+    font-size: 18px;
+}
+.yare{
+    color: darkred;
+    font-style: italic;
+    font-size: 20px;
+}
+#parent{
+    display:flex;
+    justify-content:space-around;
+    align-items: normal;
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: darkred;
+}
+.box2{
+    width: 50px;
+    height:50px;
+    border: 1px solid black;
+    background-color: saddlebrown;
+}
